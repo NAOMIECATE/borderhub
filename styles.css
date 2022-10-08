@@ -1,0 +1,96 @@
+body{
+    background-color: aquamarine;
+}
+.phone{
+    background-color:olivedrab ;
+    width: 100%;
+    font-size: medium;
+    color: aliceblue;
+}
+.title{
+    color: orange;
+    text-align: center;
+}
+.school{
+    color: blue;
+    text-align:left;
+    margin-left: 10px;
+}
+ul{
+    display: flex;
+    margin: auto;
+    justify-content: end;
+    position: relative;
+
+}
+ul li{
+    padding: 10px;
+    margin-right: 40px;
+    list-style-type:none;
+
+}
+a:link {
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+a:visited {
+    color:purple ;
+    text-transform: uppercase;
+}
+a:hover {
+    color: blue;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+a:active {
+text-transform: uppercase;
+}
+h3{
+    font-family: 'Oswald', sans-serif; ;
+    font-size: medium;
+    
+
+}
+h4{
+    font-size:2rem;
+    font-style: oblique;
+    font-weight: bold;
+}
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     align-content: center;
+}
+.tform{
+    background-color: aquamarine;
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    justify-self: center;
+    text-align: center ;
+    position: relative;
+    width:100%;
+}
+button{
+    background-color: green;
+    color: aliceblue;
+}
+.one{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.tbody{
+    background-color: aquamarine;
+}
+.box{
+    height: 30px;
+    width: 400px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.logo1{
+    background-color: white;
+}
